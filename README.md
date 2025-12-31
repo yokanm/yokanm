@@ -6,7 +6,7 @@ I build fast, user-friendly web applications that solve real problems. Currently
 
 ## 🚀 Featured Project: Cyber-Gadget
 
-**Full-Stack E-Commerce Platform** | [Live Demo](https://cyber-gadget.vercel.app) | [Source Code](https://github.com/yokanm/Cyber-gadget)
+**E-Commerce Platform** | [Live Demo](https://cyber-gadget.vercel.app) | [Source Code](https://github.com/yokanm/Cyber-gadget)
 
 Built a production-ready e-commerce platform from scratch with:
 - 🛒 Advanced product filtering & search (200+ products across 8+ categories)
