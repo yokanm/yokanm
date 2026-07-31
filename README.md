@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayokanmi
 
-**Frontend Developer** | React, Next.js, TypeScript | Building Modern Web Applications
+**Software Developer** | React, Next.js, TypeScript | Building Modern Web Applications
 
 I build fast, user-friendly web applications that solve real problems. Currently specializing in React and Next.js with a focus on e-commerce platforms and responsive design.
 
